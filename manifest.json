@@ -1,0 +1,27 @@
+{
+  "name": "큰아들과 함께하는 제주도 3박 4일",
+  "short_name": "제주 여행 🌊",
+  "description": "6월 19일~22일 가족 여행 가이드북",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a2a4a",
+  "theme_color": "#0b7a5e",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["travel", "lifestyle"]
+}
